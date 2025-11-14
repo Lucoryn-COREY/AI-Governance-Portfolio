@@ -236,3 +236,12 @@ Technical specifications and documentation - See individual file headers.
 **Last Updated:** January 2025  
 **Status:** Active Development - Building Trustworthy AI Systems
 
+
+## Repository Structure
+
+This repository has been consolidated from multiple related repositories:
+
+- **Portfolio**: Main AI Governance portfolio content
+- **implementations/**: Reference implementations from UNITARES-HCK-Implementation
+- **patents/**: Patents and technical specifications from AI-Governance-Patents
+
